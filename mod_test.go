@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/nbarena/syncrand"
+	"github.com/undernet/syncrand"
 )
 
 func TestCommit(t *testing.T) {

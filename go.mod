@@ -1,4 +1,4 @@
-module github.com/nbarena/syncrand
+module github.com/undernet/syncrand
 
 go 1.18
 
