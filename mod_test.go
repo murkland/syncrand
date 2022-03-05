@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/yumland/syncrand"
+	"github.com/murkland/syncrand"
 )
 
 func TestCommit(t *testing.T) {

@@ -1,4 +1,4 @@
-module github.com/yumland/syncrand
+module github.com/murkland/syncrand
 
 go 1.18
 
